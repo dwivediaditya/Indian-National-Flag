@@ -8,14 +8,12 @@ Original file is located at
 
 **Python Script: Drawing Indian National Flag Tricolor using Python Matplotlib, Numpy**
 
-Python Script: In Occasion of 74th Independence day, Drawing Indian National Flag Tricolor using Python Matplotlib (Pyplot,Pactches). 
+Python Script: In Occasion of 74th Independence day, Drawing Indian National Flag Tricolor using Python Matplotlib (Pyplot,Patches). 
 This is the script in Python and script where we are creating something using Matplotlib and NumPy. 
 
 Code is self explanatory as I have added plenty of comments within code. 
 
 Before proceeding further, it is important to understand the coordinates and quadrants. Refer the diagram below.
-
-
 
 We have taken the flag dimensions ratio into consideration while writing program.
 """
